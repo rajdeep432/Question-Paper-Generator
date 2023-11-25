@@ -1,0 +1,142 @@
+[
+    {
+        "question": "What is the speed of light?",
+        "subject": "Physics",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Explain the process of photosynthesis.",
+        "subject": "Biology",
+        "topic": "Ecology",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Solve the quadratic equation: ax^2 + bx + c = 0.",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "marks": 8
+    },
+    {
+        "question": "What is the capital of France?",
+        "subject": "Geography",
+        "topic": "Countries",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of gravity.",
+        "subject": "Physics",
+        "topic": "Forces",
+        "difficulty": "Hard",
+        "marks": 15
+    },
+    {
+        "question": "Define the structure of a cell.",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Solve the definite integral: ∫(2x + 3)dx from 0 to 5.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 12
+    },
+    {
+        "question": "Name the largest desert in the world.",
+        "subject": "Geography",
+        "topic": "Landforms",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Who proposed the theory of relativity?",
+        "subject": "Physics",
+        "topic": "Modern Physics",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Explain the process of mitosis.",
+        "subject": "Biology",
+        "topic": "Cell Division",
+        "difficulty": "Medium",
+        "marks": 8
+    },
+    {
+        "question": "Solve the system of linear equations: 2x + y = 5, 3x - 2y = 8.",
+        "subject": "Mathematics",
+        "topic": "Linear Algebra",
+        "difficulty": "Hard",
+        "marks": 12
+    },
+    {
+        "question": "What are the major rivers in Asia?",
+        "subject": "Geography",
+        "topic": "Rivers",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Explain the concept of nuclear fission.",
+        "subject": "Physics",
+        "topic": "Nuclear Physics",
+        "difficulty": "Hard",
+        "marks": 15
+    },
+    {
+        "question": "Describe the process of meiosis.",
+        "subject": "Biology",
+        "topic": "Cell Division",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Calculate the limit: lim(x->2) (x^2 - 4) / (x - 2).",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 12
+    },
+    {
+        "question": "What are the climate zones of the Earth?",
+        "subject": "Geography",
+        "topic": "Climate",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "subject": "Biology",
+        "topic": "Medicine",
+        "difficulty": "Easy",
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of magnetic fields.",
+        "subject": "Physics",
+        "topic": "Magnetism",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Solve the logarithmic equation: log₂(x) = 3.",
+        "subject": "Mathematics",
+        "topic": "Logarithms",
+        "difficulty": "Hard",
+        "marks": 12
+    },
+    {
+        "question": "What are the major mountain ranges in South America?",
+        "subject": "Geography",
+        "topic": "Mountains",
+        "difficulty": "Medium",
+        "marks": 10
+    }
+]
